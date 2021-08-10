@@ -1,3 +1,18 @@
+### GENERAL INFORMATION
+#### Name: Yan Qinlin
+#### E-mail: 11812536@mail.sustech.edu.cn
+#### Phone: (+86) 15815506145
+
+### EDUCATION
+#### Southern University of Science and Technology
+Hydrology and Water Resources Engineering Bachelor | School of Environmental Science and Engineering                                                    (Sep 2018 - Jun 2022)
+· GPA: 3.74/4.0, Rank: 5/12
+· Relevant Coursework: xxx(95)
+#### Xi'an Tieyi High School
+Junior and Senior High School                                                                                                                           (Sep 2012 - Jun 2018)
+
+### RESEARCH EXPERIENCE
+#### 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/YanQinlin/YanQinlin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
